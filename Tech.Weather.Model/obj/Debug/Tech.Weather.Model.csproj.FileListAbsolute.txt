@@ -1,0 +1,6 @@
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Model\bin\Debug\Tech.Weather.Model.dll
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Model\bin\Debug\Tech.Weather.Model.pdb
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Model\obj\Debug\Tech.Weather.Model.csprojAssemblyReference.cache
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Model\obj\Debug\Tech.Weather.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Model\obj\Debug\Tech.Weather.Model.dll
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Model\obj\Debug\Tech.Weather.Model.pdb

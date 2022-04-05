@@ -1,0 +1,15 @@
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.exe.config
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.exe
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.pdb
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.DAL.dll
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.Entities.dll
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.DAL.pdb
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\bin\Debug\Tech.Weather.Entities.pdb
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.csprojAssemblyReference.cache
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.Form1.resources
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.Properties.Resources.resources
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.csproj.GenerateResource.cache
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.csproj.CoreCompileInputs.cache
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.csproj.CopyComplete
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.exe
+C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather\obj\Debug\Tech.Weather.pdb
