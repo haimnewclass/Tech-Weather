@@ -9,10 +9,10 @@ namespace Tech.Weather.Entities
 {
     public class Request
     {
-        public static void GetCity(string cityName)
+        public async static void GetCity(string cityName)
         {
             APICityRequest r = new APICityRequest();
-            r.GetCityData(cityName);
+            string  p = await r.GetCityData(cityName);
         }
     }
 }

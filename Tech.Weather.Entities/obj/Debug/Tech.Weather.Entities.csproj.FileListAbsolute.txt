@@ -4,8 +4,8 @@ C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\bin\Debug\Tech.Weat
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\bin\Debug\Tech.Weather.Model.dll
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\bin\Debug\Tech.Weather.DAL.pdb
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\bin\Debug\Tech.Weather.Model.pdb
-C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\obj\Debug\Tech.Weather.Entities.csprojAssemblyReference.cache
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\obj\Debug\Tech.Weather.Entities.csproj.CoreCompileInputs.cache
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\obj\Debug\Tech.Weather.Entities.csproj.CopyComplete
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\obj\Debug\Tech.Weather.Entities.dll
 C:\Users\ASI\source\repos\Tech-Weather\Tech.Weather.Entities\obj\Debug\Tech.Weather.Entities.pdb
+C:\Users\ASI\Source\Repos\Tech-Weather\Tech.Weather.Entities\obj\Debug\Tech.Weather.Entities.csproj.AssemblyReference.cache
