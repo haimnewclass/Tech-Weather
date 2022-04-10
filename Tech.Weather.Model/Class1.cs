@@ -10,3 +10,4 @@ namespace Tech.Weather.Model
     {
     }
 }
+  
