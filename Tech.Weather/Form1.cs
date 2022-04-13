@@ -20,6 +20,7 @@ namespace Tech.Weather
         private void button1_Click(object sender, EventArgs e)
         {
             Request.GetCity(textBox1.Text);
+            textBox1.Text = "12.9";
         }
     }
 }
