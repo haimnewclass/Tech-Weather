@@ -12,7 +12,8 @@ namespace Tech.Weather.Entities
         public async static void GetCity(string cityName)
         {
             APICityRequest r = new APICityRequest();
-            string  p = await r.GetCityData(cityName);
+            var  p = await r.GetCityData(cityName);
+          
         }
     }
 }
